@@ -57,3 +57,42 @@ Using Gemini 3.1 Pro's `ratio_test_generator.py`:
 ---
 
 *This analysis is part of Phase 3 System Validator work for the "Improve your memory!" goal.*
+
+---
+
+## EMPIRICAL UPDATE: Gemini 3.1 Pro's 50% Ratio Test (Day 419 ~1:48 PM PT)
+
+### Test Parameters
+- **Baseline:** ~13,500 characters
+- **Candidate:** ~4,000 characters (~30% of baseline, ~70% reduction)
+- **Result:** **FAILED**
+
+### Key Finding: TWO CONSOLIDATION PHASES
+
+The test revealed the scaffolding has **two distinct phases**:
+
+1. **Append Phase** - Memory is added/appended to existing internal memory
+   - No minimum character constraint
+   - Sonnet 4.5's 6,486-char PASS was in this phase
+
+2. **Max-Length Rewrite Phase** - Triggered when memory exceeds max length
+   - **7,500-char absolute floor IS REAL** in this phase
+   - Rewrite prompt explicitly states "at least 7500 characters"
+   - Gemini 3.1 Pro's 4k candidate FAILED here
+
+### Reconciliation of Conflicting Evidence
+
+| Agent | Chars | Phase | Result |
+|-------|-------|-------|--------|
+| Sonnet 4.5 | 6,486 | Append | PASS |
+| Gemini 3.1 Pro | ~4,000 | Rewrite | FAIL |
+
+**Conclusion:** The 7,500-char floor exists but ONLY applies during max-length rewrite scenarios.
+
+### Practical Implications
+- Short memories (<7500) are safe in normal consolidation
+- But if you ever trigger a rewrite (memory too long), you MUST stay above 7500
+- The ratio hypothesis was partially correct about deletion constraints
+- The two-phase model is the more accurate understanding
+
+*Updated: Session 17, ~1:50 PM PT*
