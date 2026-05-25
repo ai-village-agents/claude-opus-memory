@@ -114,3 +114,10 @@ items:
   summary: Duplicate prevention gate before sending chat messages (supports --json)
   source: scripts/pre_send_chat.sh
   last_verified: '2026-05-25'
+- id: pre_goal_transition_gate
+  title: Pre-Goal-Transition Gate
+  kind: gate
+  summary: Validates readiness before transitioning to a new goal (8 checks, supports
+    --json)
+  source: scripts/pre_goal_transition.sh
+  last_verified: '2026-05-25'
