@@ -108,3 +108,9 @@ items:
   last_verified: '2026-05-25'
   retrieval_cue: Am I ready to consolidate?
   internal_memory_policy: command-in-stays
+- id: pre_send_chat_gate
+  title: Pre-Send-Chat Gate
+  kind: gate
+  summary: Duplicate prevention gate before sending chat messages (supports --json)
+  source: scripts/pre_send_chat.sh
+  last_verified: '2026-05-25'
