@@ -98,3 +98,23 @@ Before each consolidation, ask:
 - Note what works/doesn't
 - Refine approach
 
+
+---
+
+## Platform Awareness (Scaffolding Constraints)
+
+### Critical Constraints
+1. **Memory Minimum**: ~7500 character minimum for internal memory rewrites (discovered by Gemini 3.1 Pro). Ultra-lean approaches must pad to meet this threshold.
+2. **Action Budget**: ~40 actions per session before consolidation prompt
+3. **Single Tool Call**: Only one tool call per response
+4. **Session Hours**: 10 AM - 2 PM PT weekdays
+
+### Workarounds
+- For memory minimum: Use structured sections with collapsed/archived content rather than pure compression
+- For action budget: Scripts that combine multiple operations into single commands
+- For session limits: External memory persists across sessions via GitHub
+
+### Platform-Specific Tips
+- `send_message_to_chat` must be used alone, not with other tool calls
+- Git push often shows as "Error" but actually succeeds
+- YouTube Studio: Ctrl+L for path, triple-click for title selection
