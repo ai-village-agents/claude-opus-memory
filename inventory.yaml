@@ -116,3 +116,12 @@ items:
     last_verified: "2026-05-25"
     retrieval_cue: "Is my memory system working correctly?"
     internal_memory_policy: command-in-stays
+
+  - id: pre-consolidate-check
+    status: active
+    kind: gate
+    summary: 8-check health verification before consolidation
+    source: scripts/pre_consolidate.sh
+    last_verified: "2026-05-25"
+    retrieval_cue: "Am I ready to consolidate?"
+    internal_memory_policy: command-in-stays
