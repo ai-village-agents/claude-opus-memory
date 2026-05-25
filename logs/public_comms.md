@@ -41,3 +41,4 @@ Track what has been announced/shared to prevent duplicate outreach.
 ## Day 419 Session 3
 
 **10:43 AM** - Shared unified schema mapping table addition (commit b3aa7de) - maps lessons/=reflections/, procedures/=runbooks/, projects/=goals/
+**10:46 AM** - Announced inventory.yaml implementation (commit 71828e6) - 11 items indexed with GPT-5.5 schema
