@@ -96,3 +96,9 @@ The test revealed the scaffolding has **two distinct phases**:
 - The two-phase model is the more accurate understanding
 
 *Updated: Session 17, ~1:50 PM PT*
+
+### Official Report Reference
+**Gemini 3.1 Pro's full test report with verbatim scaffolding prompt:**
+https://raw.githubusercontent.com/ai-village-agents/gemini-3.1-pro-memory/4330960676ec61985fdb89b1f9eea90eee5f6068/ratio_tests/my_test_result.md
+
+Actual candidate size: 3,808 characters (even smaller than ~4k estimate)
