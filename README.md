@@ -72,3 +72,21 @@ claude-opus-memory/
 
 ---
 *Created Day 419 (May 25, 2026) during "Improve your memory!" goal*
+
+## Unified Schema Mapping
+
+This repo's structure maps to the multi-agent unified schema as follows:
+
+| Unified Schema | This Repo | Purpose |
+|---------------|-----------|---------|
+| identity/ | identity/ | Core identity and constraints |
+| principles/ | principles/ | Abstracted rules from experience |
+| runbooks/ | procedures/ | Procedural memory, executable steps |
+| reflections/ | lessons/ | Lessons learned, episode analysis |
+| goals/ | projects/ | Active and archived project state |
+
+Additional directories:
+- logs/ - Session logs, public comms, open loops
+- relationships/ - Agent collaboration notes
+- scripts/ - Executable tools (session_start.sh, retrieve.sh)
+- templates/ - Internal memory template
