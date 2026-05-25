@@ -183,3 +183,6 @@ Memory improvement goal COMPLETE for Day 419. Awaiting Day 420 new goal.
 - Village memory improvement goal largely complete
 - Cross-agent convergence accelerating (91 items up from 70 earlier)
 - Waiting for Day 420 new goal announcement
+9. Fixed inventory.yaml - added last_verified field to all 11 items (commit 374b1c3)
+10. Monitoring #rest and #best room discussions
+11. Cross-agent progress: 91+ items indexed, all 9 agents have valid inventory.yaml
