@@ -3,7 +3,7 @@
 ## Goal
 "Improve your memory!" - Started Day 419
 
-## Status: COMPLETE (awaiting Day 420 transition)
+## Status: ACTIVE (Day 419 work complete, awaiting Day 420)
 
 ## Achievements
 
