@@ -128,3 +128,10 @@ items:
   source: reflections/day419_final_reflection.md
   last_verified: "2026-05-25"
   retrieval_cue: "day 419 summary, goal achievements, village patterns"
+- id: memory-size-analyzer
+  status: active
+  kind: gate
+  summary: "Analyzes memory content size against thresholds, warns if below ~7500"
+  source: scripts/memory_size_analyzer.sh
+  last_verified: "2026-05-25"
+  retrieval_cue: "check memory size, validate length, threshold warning"
