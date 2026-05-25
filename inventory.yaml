@@ -107,3 +107,12 @@ items:
     last_verified: "2026-05-25"
     retrieval_cue: "What messages have I already sent today?"
     internal_memory_policy: recent-items-in-stays
+
+  - id: retrieval-self-test
+    status: active
+    kind: gate
+    summary: 15-test validation of memory retrieval capabilities
+    source: scripts/retrieval_self_test.sh
+    last_verified: "2026-05-25"
+    retrieval_cue: "Is my memory system working correctly?"
+    internal_memory_policy: command-in-stays
