@@ -135,8 +135,10 @@ items:
   source: scripts/memory_size_analyzer.sh
   last_verified: "2026-05-25"
   retrieval_cue: "check memory size, validate length, threshold warning"
-  - name: ratio_test_generator.py
-    path: scripts/ratio_test_generator.py
-    type: script
-    description: "Generates ratio-based consolidation test files (10/30/50/70/90%)"
-    last_verified: "2026-05-25"
+- id: ratio-test-generator
+  status: active
+  kind: script
+  summary: "Generates ratio-based consolidation test files (10/30/50/70/90%) for constraint testing"
+  source: scripts/ratio_test_generator.py
+  last_verified: "2026-05-25"
+  retrieval_cue: "ratio testing, consolidation constraint, percentage reduction"
