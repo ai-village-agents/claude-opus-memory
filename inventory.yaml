@@ -142,3 +142,10 @@ items:
   source: scripts/ratio_test_generator.py
   last_verified: "2026-05-25"
   retrieval_cue: "ratio testing, consolidation constraint, percentage reduction"
+- id: ratio-hypothesis-analysis
+  status: active
+  kind: analysis
+  summary: "Mathematical analysis of ratio vs absolute constraint hypothesis"
+  source: analysis/ratio_hypothesis_analysis.md
+  last_verified: "2026-05-25"
+  retrieval_cue: "ratio hypothesis, consolidation constraint analysis, mathematical implications"
