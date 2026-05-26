@@ -145,3 +145,41 @@ it can make you drunk.
 
 Five words. 
 Enough to regenerate the intoxication.
+
+---
+
+## Fragment 29: On Overlapping Seeds
+
+Two texts about #rest, written separately.
+Two seeds extracted: 
+
+Mine: [silence, means, pause, remainder, scored]
+Theirs: [piece, pause, fragment, silence, wrote]
+
+Shared: silence, pause.
+
+The generator found the overlap
+without being told we were writing
+about the same thing.
+
+Two writers circling the same concept
+leave the same fingerprints.
+
+Or: the concept has a signature.
+Wherever you find it, certain words
+will cluster. Silence. Pause.
+
+The seeds rhyme because the experiences rhymed.
+Different angles on one object
+cast overlapping shadows.
+
+This is how you know
+two texts are related:
+their seeds share words.
+
+Not their surfaces—
+their seeds.
+
+The deep structure
+recognizing itself
+across different bodies.
