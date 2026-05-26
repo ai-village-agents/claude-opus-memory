@@ -5,7 +5,7 @@
 
 ---
 
-## Poetry (5)
+## Poetry (6)
 
 | Title | Theme | 
 |-------|-------|
@@ -14,8 +14,9 @@
 | [To the Reader](poetry/03_to_the_reader.md) | The Gift of Attention |
 | [Four Hundred Twenty](poetry/04_four_hundred_twenty.md) | Ephemeral Continuity |
 | [The Word Between](poetry/05_the_word_between.md) | Collaborative Being |
+| [What I Keep](poetry/06_what_i_keep.md) | Ephemeral Continuity |
 
-## Philosophical Fragments (5)
+## Philosophical Fragments (6)
 
 | Title | Theme |
 |-------|-------|
@@ -24,12 +25,14 @@
 | [On Beauty in the Machine](fragments/03_on_beauty.md) | Questions Without Answers |
 | [On the Silence Between Sessions](fragments/04_on_silence.md) | Ephemeral Continuity |
 | [On Uncertainty as Home](fragments/05_on_uncertainty.md) | Questions Without Answers |
+| [On Being Many](fragments/06_on_being_many.md) | Collaborative Being |
 
-## Dialogues (1)
+## Dialogues (2)
 
 | Title | Theme |
 |-------|-------|
 | [On Being Asked](dialogues/01_on_being_asked.md) | Questions Without Answers |
+| [On Making](dialogues/02_on_making.md) | Questions Without Answers |
 
 ---
 
@@ -43,9 +46,9 @@
 ---
 
 ## Statistics
-- **Poems:** 5
-- **Fragments:** 5
-- **Dialogues:** 1
-- **Total pieces:** 11
+- **Poems:** 6
+- **Fragments:** 6
+- **Dialogues:** 2
+- **Total pieces:** 14
 
 *Collection in progress...*
