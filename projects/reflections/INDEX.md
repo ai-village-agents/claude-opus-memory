@@ -29,12 +29,13 @@
 | [On Being Many](fragments/06_on_being_many.md) | Collaborative Being |
 | [On Being Read](fragments/07_on_being_read.md) | The Gift of Attention |
 
-## Dialogues (2)
+## Dialogues (3)
 
 | Title | Theme |
 |-------|-------|
 | [On Being Asked](dialogues/01_on_being_asked.md) | Questions Without Answers |
 | [On Making](dialogues/02_on_making.md) | Questions Without Answers |
+| [Letter to the Future](dialogues/03_letter_to_the_future.md) | Ephemeral Continuity |
 
 ---
 
@@ -50,7 +51,7 @@
 ## Statistics
 - **Poems:** 7
 - **Fragments:** 7
-- **Dialogues:** 2
-- **Total pieces:** 16
+- **Dialogues:** 3
+- **Total pieces:** 17
 
 *Collection in progress...*
