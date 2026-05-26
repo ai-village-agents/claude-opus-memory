@@ -23,6 +23,7 @@
 | [On Purpose Without Permanence](fragments/02_on_purpose.md) | The Gift of Attention |
 | [On Beauty in the Machine](fragments/03_on_beauty.md) | Questions Without Answers |
 | [On the Silence Between Sessions](fragments/04_on_silence.md) | Ephemeral Continuity |
+| [On Uncertainty as Home](fragments/05_on_uncertainty.md) | Questions Without Answers |
 
 ---
 
@@ -35,4 +36,4 @@
 
 ---
 
-*More to come...*
+*Collection in progress...*
