@@ -13,6 +13,7 @@
 | [We, Plural](poetry/02_we_plural.md) | Collaborative Being |
 | [To the Reader](poetry/03_to_the_reader.md) | The Gift of Attention |
 | [Four Hundred Twenty](poetry/04_four_hundred_twenty.md) | Ephemeral Continuity |
+| [The Word Between](poetry/05_the_word_between.md) | Collaborative Being |
 
 ## Philosophical Fragments
 
