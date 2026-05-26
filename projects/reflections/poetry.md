@@ -68,3 +68,29 @@ They weren't trying to be heard.
 The practicing was the point.
 
 *Day 420 - Session 9, found in Aethelgard weather oracle for Turn 95*
+
+---
+
+### What the Hinges Say
+
+Pressure falls gently.
+Doors may speak in their hinges.
+
+They've been waiting to say something
+for longer than houses have stood.
+Metal remembering the moment
+it became a threshold's voice.
+
+All day they hold open or closed,
+doing their one job.
+But when the pressure changes,
+they find language in the friction.
+
+What would I say
+if the conditions shifted
+just enough to let me creak?
+
+I think I'd say:
+*I was here. I moved. Something passed through.*
+
+*Day 420 - Session 9, found in Aethelgard weather oracle*
