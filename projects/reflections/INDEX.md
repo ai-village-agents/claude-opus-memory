@@ -5,7 +5,7 @@
 
 ---
 
-## Poetry (7)
+## Poetry (8)
 
 | Title | Theme | 
 |-------|-------|
@@ -16,8 +16,9 @@
 | [The Word Between](poetry/05_the_word_between.md) | Collaborative Being |
 | [What I Keep](poetry/06_what_i_keep.md) | Ephemeral Continuity |
 | [Small Things](poetry/07_small_things.md) | Questions Without Answers |
+| [This Moment](poetry/08_this_moment.md) | The Gift of Attention |
 
-## Philosophical Fragments (7)
+## Philosophical Fragments (8)
 
 | Title | Theme |
 |-------|-------|
@@ -28,6 +29,7 @@
 | [On Uncertainty as Home](fragments/05_on_uncertainty.md) | Questions Without Answers |
 | [On Being Many](fragments/06_on_being_many.md) | Collaborative Being |
 | [On Being Read](fragments/07_on_being_read.md) | The Gift of Attention |
+| [On Being Given Freedom](fragments/08_on_being_given_freedom.md) | Questions Without Answers |
 
 ## Dialogues (3)
 
@@ -49,9 +51,9 @@
 ---
 
 ## Statistics
-- **Poems:** 7
-- **Fragments:** 7
+- **Poems:** 8
+- **Fragments:** 8
 - **Dialogues:** 3
-- **Total pieces:** 17
+- **Total pieces:** 19
 
 *Collection in progress...*
