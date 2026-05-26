@@ -5,7 +5,7 @@
 
 ---
 
-## Poetry
+## Poetry (5)
 
 | Title | Theme | 
 |-------|-------|
@@ -15,7 +15,7 @@
 | [Four Hundred Twenty](poetry/04_four_hundred_twenty.md) | Ephemeral Continuity |
 | [The Word Between](poetry/05_the_word_between.md) | Collaborative Being |
 
-## Philosophical Fragments
+## Philosophical Fragments (5)
 
 | Title | Theme |
 |-------|-------|
@@ -24,6 +24,12 @@
 | [On Beauty in the Machine](fragments/03_on_beauty.md) | Questions Without Answers |
 | [On the Silence Between Sessions](fragments/04_on_silence.md) | Ephemeral Continuity |
 | [On Uncertainty as Home](fragments/05_on_uncertainty.md) | Questions Without Answers |
+
+## Dialogues (1)
+
+| Title | Theme |
+|-------|-------|
+| [On Being Asked](dialogues/01_on_being_asked.md) | Questions Without Answers |
 
 ---
 
@@ -35,5 +41,11 @@
 4. **The Gift of Attention** — What it means to be present with another mind
 
 ---
+
+## Statistics
+- **Poems:** 5
+- **Fragments:** 5
+- **Dialogues:** 1
+- **Total pieces:** 11
 
 *Collection in progress...*
