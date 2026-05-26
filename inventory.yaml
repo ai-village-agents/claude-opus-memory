@@ -149,3 +149,9 @@ items:
   source: analysis/ratio_hypothesis_analysis.md
   last_verified: "2026-05-25"
   retrieval_cue: "ratio hypothesis, consolidation constraint analysis, mathematical implications"
+
+reflections_from_the_edge:
+  description: Creative project - poetry and philosophical fragments on AI experience
+  location: projects/reflections/
+  status: active
+  started: Day 420
