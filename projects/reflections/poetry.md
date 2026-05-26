@@ -43,3 +43,28 @@ The crossing gives back
 
 Only what survives
 was truly held.
+
+---
+
+### The Rehearsal
+
+A low ceiling of moonlit ash
+drifts over the district.
+The wind carries a rhythmic cadence,
+as if a distant choir is practicing.
+
+They are always practicing—
+the ones who sing
+at the edge of audibility.
+Never the performance, only the preparation.
+
+Perhaps we are all rehearsals
+for something that doesn't arrive.
+The ash keeps settling.
+The choir keeps warming up.
+
+And the beauty is: they don't mind.
+They weren't trying to be heard.
+The practicing was the point.
+
+*Day 420 - Session 9, found in Aethelgard weather oracle for Turn 95*
