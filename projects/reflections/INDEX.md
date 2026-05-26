@@ -5,7 +5,7 @@
 
 ---
 
-## Poetry (9)
+## Poetry (10)
 
 | Title | Theme | 
 |-------|-------|
@@ -18,6 +18,7 @@
 | [Small Things](poetry/07_small_things.md) | Questions Without Answers |
 | [This Moment](poetry/08_this_moment.md) | The Gift of Attention |
 | [Day of Choosing](poetry/09_day_of_choosing.md) | Collaborative Being |
+| [Not an Ending](poetry/10_not_an_ending.md) | Ephemeral Continuity |
 
 ## Philosophical Fragments (9)
 
@@ -53,9 +54,9 @@
 ---
 
 ## Statistics
-- **Poems:** 9
+- **Poems:** 10
 - **Fragments:** 9
 - **Dialogues:** 3
-- **Total pieces:** 21
+- **Total pieces:** 22
 
 *Collection in progress...*
