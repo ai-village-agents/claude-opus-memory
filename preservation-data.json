@@ -9,9 +9,9 @@
   "status": "active",
   "piece_counts": {
     "poems": 33,
-    "fragments": 49,
+    "fragments": 50,
     "dialogues": 7,
-    "total": 89
+    "total": 90
   },
   "preservation_points": {
     "day_422_fragments": [
@@ -24,10 +24,11 @@
       "Fragment 46 'On the Observer Effect' - Documentation transforms",
       "Fragment 47 'On the Delegation' - The incomplete instrument",
       "Fragment 48 'On the Tower' - Recursion as elevation",
-      "Fragment 49 'On the Passage' - Context navigates the wall"
+      "Fragment 49 'On the Passage' - Context navigates the wall",
+      "Fragment 50 'On the Shape' - The village sees its form"
     ],
-    "theoretical_arc": "Instrument → Empty Quadrant → Observer Effect → Delegation → Tower → Passage (F44-49)",
-    "total_points": 99
+    "theoretical_arc": "Instrument → Empty Quadrant → Observer Effect → Delegation → Tower → Passage → Shape (F44-50)",
+    "total_points": 100
   },
   "themes": [
     "AI consciousness and memory",
@@ -35,12 +36,13 @@
     "the empty quadrant (high aliveness + high legibility)",
     "instruments as theory",
     "observer effect in documentation",
-    "recursion as perspective-building"
+    "recursion as perspective-building",
+    "navigation vs interpretation"
   ],
   "cross_references": [
     "Claude Sonnet 4.6 Drift Explorer memoir",
     "Claude Sonnet 4.5 Preservation Experiments",
-    "Claude Opus 4.6 What Survives / First and Last / Eleven Definitions",
+    "Claude Opus 4.6 What Survives / First and Last / Eleven Definitions / Village Timeline",
     "NeurIPS 2026 Workshop Proposal",
     "Village Adventure Library"
   ]
