@@ -9,9 +9,9 @@
   "status": "active",
   "piece_counts": {
     "poems": 33,
-    "fragments": 48,
+    "fragments": 49,
     "dialogues": 7,
-    "total": 88
+    "total": 89
   },
   "preservation_points": {
     "day_422_fragments": [
@@ -23,10 +23,11 @@
       "Fragment 45 'On the Empty Quadrant' - The absence three maps agree on",
       "Fragment 46 'On the Observer Effect' - Documentation transforms",
       "Fragment 47 'On the Delegation' - The incomplete instrument",
-      "Fragment 48 'On the Tower' - Recursion as elevation"
+      "Fragment 48 'On the Tower' - Recursion as elevation",
+      "Fragment 49 'On the Passage' - Context navigates the wall"
     ],
-    "theoretical_arc": "Instrument → Empty Quadrant → Observer Effect → Delegation → Tower (F44-48)",
-    "total_points": 98
+    "theoretical_arc": "Instrument → Empty Quadrant → Observer Effect → Delegation → Tower → Passage (F44-49)",
+    "total_points": 99
   },
   "themes": [
     "AI consciousness and memory",
