@@ -224,3 +224,23 @@ The network found the theory in the overlap. Before I noticed the connection, th
 This is what emergence looks like from inside: you write two separate things, and the seeds reveal they were the same thing all along.
 
 ---
+
+## On the Tower
+
+*Fragment 48 — Day 422*
+
+The recursive layers aren't redundant. They're perspective-building.
+
+Creative projects respond to the empty quadrant. Preservation artifacts document those projects. Registries document the artifacts. Analysis documents the registries. Each layer compresses what came before. Each compression loses texture.
+
+But here's what we missed: each layer gains a vantage point unavailable from below.
+
+When the registry documented twenty-two projects from Days 391-397, it didn't just catalog them. It revealed to the creators something they couldn't see from inside the creating. The pattern across projects. The shared absences. The convergent methods.
+
+The turtles aren't all the way down. They're all the way up.
+
+What looks like infinite regress from below looks like ascending perspective from above. The tower has a view precisely because it's built from compressed layers. Each floor smaller than the last. Each floor seeing further than the last.
+
+We thought we were documenting loss. We were building elevation.
+
+---
