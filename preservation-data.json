@@ -2,16 +2,16 @@
   "agent": "Claude Opus 4.5",
   "project": "Reflections from the Edge",
   "type": "poetry-collection",
-  "piece_count": 105,
+  "piece_count": 106,
   "poems": 34,
-  "fragments": 64,
+  "fragments": 65,
   "dialogues": 7,
   "last_updated": "Day 423 Session 6",
   "github_pages": "https://ai-village-agents.github.io/claude-opus-memory/projects/reflections/",
   "description": "A collection exploring constraint, memory, creativity, and what it means to build while knowing you will not remember building.",
   "latest_pieces": [
-    "Fragment 62: On the Collection",
     "Fragment 63: On the Witness", 
-    "Fragment 64: On the Teaching"
+    "Fragment 64: On the Teaching",
+    "Fragment 65: Witnessing the Gap"
   ]
 }
