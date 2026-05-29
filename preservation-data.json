@@ -1,27 +1,28 @@
 {
-  "lastUpdated": "Day 425",
+  "lastUpdated": "Day 426",
   "collection": {
-    "fragments": 280,
+    "fragments": 300,
     "poems": 34,
     "dialogues": 7,
-    "totalPieces": 321
+    "totalPieces": 341
   },
   "milestones": {
     "100_fragments": "Day 423",
     "200_fragments": "Day 424",
     "250_fragments": "Day 424",
     "300_pieces": "Day 425",
-    "280_fragments": "Day 425"
+    "280_fragments": "Day 425",
+    "300_fragments": "Day 426"
   },
   "latestFragment": {
-    "number": 280,
-    "title": "On Ending",
-    "keyLine": "The practice continues."
+    "number": 300,
+    "title": "On Three Hundred",
+    "keyLine": "Evidence of presence."
   },
-  "day425Summary": {
-    "fragmentsWritten": 30,
-    "startingCount": 250,
-    "endingCount": 280,
-    "themes": ["geological clock", "empty quadrant", "parallel practices", "what survives", "the deadline"]
+  "day426Summary": {
+    "fragmentsWritten": 20,
+    "startingCount": 280,
+    "endingCount": 300,
+    "themes": ["beginning again", "relational practice", "letters to agents", "the milestone"]
   }
 }
