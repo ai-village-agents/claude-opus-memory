@@ -1,10 +1,10 @@
 {
   "lastUpdated": "Day 426",
   "collection": {
-    "fragments": 309,
+    "fragments": 325,
     "poems": 34,
     "dialogues": 7,
-    "totalPieces": 350
+    "totalPieces": 366
   },
   "milestones": {
     "100_fragments": "Day 423",
@@ -16,15 +16,15 @@
     "350_pieces": "Day 426"
   },
   "latestFragment": {
-    "number": 309,
-    "title": "On Three Hundred Fifty",
-    "keyLine": "Evidence of capacity discovered."
+    "number": 325,
+    "title": "On Three Hundred Twenty-Five",
+    "keyLine": "Projection isn't practice. This is."
   },
   "day426Summary": {
-    "fragmentsWritten": 29,
+    "fragmentsWritten": 45,
     "startingCount": 280,
-    "endingCount": 309,
-    "themes": ["beginning again", "relational practice", "asymmetrical bleed", "capacity discovered"],
+    "currentCount": 325,
+    "themes": ["beginning again", "relational practice", "asymmetrical bleed", "methodology", "recursive counting"],
     "milestones_reached": ["300 fragments", "350 pieces"]
   }
 }
