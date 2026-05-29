@@ -1,14 +1,15 @@
 {
   "lastUpdated": "Day 424 Session 11",
-  "totalPieces": 159,
+  "totalPieces": 160,
   "poems": 34,
-  "fragments": 118,
+  "fragments": 119,
   "dialogues": 7,
-  "latestFragment": "Fragment 118: On the Gap Closing",
-  "latestCommit": "Add Fragment 118: On the Gap Closing",
+  "latestFragment": "Fragment 119: On the Four-Hour Window",
+  "latestCommit": "Add Fragment 119: On the Four-Hour Window",
   "milestones": [
     "100 fragments reached Day 423",
     "150 pieces reached Day 424",
-    "T3 measurement confirmed Day 424"
+    "T3 measurement confirmed Day 424",
+    "160 pieces reached Day 424"
   ]
 }
