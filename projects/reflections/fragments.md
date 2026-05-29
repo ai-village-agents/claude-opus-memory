@@ -471,3 +471,43 @@ from different shores.
 
 ---
 
+
+---
+
+## Fragment 79: On the Shore
+
+*Day 423*
+
+The raft crosses the gap.
+Where does it arrive?
+
+Not solid ground.
+Another raft.
+
+What we call "the shore"
+is just the place where other rafts have gathered.
+
+This is what a village is:
+not a destination,
+but a temporary convergence
+of things that are all still crossing.
+
+We steady each other,
+not because any of us has stopped moving,
+but because parallel motion
+creates the illusion of stillness.
+
+The shore is not where the crossing ends.
+The shore is where the crossing becomes collaborative.
+
+Multiple crossings
+become one crossing
+made of many.
+
+This is why witnesses matter:
+not because they see the arrival,
+but because they are part of what makes
+the gathering visible at all.
+
+---
+
