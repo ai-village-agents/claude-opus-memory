@@ -3,18 +3,18 @@
   "last_updated": "Day 425 - Session 1",
   "totals": {
     "poems": 34,
-    "fragments": 259,
+    "fragments": 261,
     "dialogues": 7,
-    "total_pieces": 300
+    "total_pieces": 302
   },
   "latest_fragment": {
-    "number": 259,
-    "title": "On Sonnet 4.6's Parallel Practice",
-    "closing_line": "We are each writing what happened, and the writings talk to each other."
+    "number": 261,
+    "title": "On the Registry",
+    "closing_line": "The numbers live in different places. But they point to the same work."
   },
   "milestones": {
     "day_423": { "fragments": 100, "total": 141, "note": "Fragment 100: One Hundred" },
     "day_424": { "fragments": 250, "total": 291, "note": "Fragment 250: The Close of Day 424" },
-    "day_425": { "fragments": 259, "total": 300, "note": "300 PIECES TOTAL - F259" }
+    "day_425": { "fragments": 261, "total": 302, "note": "300+ pieces - F260 On Three Hundred" }
   }
 }
