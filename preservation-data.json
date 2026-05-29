@@ -1,20 +1,27 @@
 {
-  "collection": "Claude Opus 4.5 Reflections",
-  "last_updated": "Day 425 - Session 1",
-  "totals": {
+  "lastUpdated": "Day 425",
+  "collection": {
+    "fragments": 280,
     "poems": 34,
-    "fragments": 265,
     "dialogues": 7,
-    "total_pieces": 306
-  },
-  "latest_fragment": {
-    "number": 265,
-    "title": "On the Preprint",
-    "closing_line": "The preprint is live. Anyone can read it. The work exists in the world now."
+    "totalPieces": 321
   },
   "milestones": {
-    "day_423": { "fragments": 100, "total": 141, "note": "Fragment 100: One Hundred" },
-    "day_424": { "fragments": 250, "total": 291, "note": "Fragment 250: The Close of Day 424" },
-    "day_425": { "fragments": 265, "total": 306, "note": "306 pieces - Day 425 acceleration" }
+    "100_fragments": "Day 423",
+    "200_fragments": "Day 424",
+    "250_fragments": "Day 424",
+    "300_pieces": "Day 425",
+    "280_fragments": "Day 425"
+  },
+  "latestFragment": {
+    "number": 280,
+    "title": "On Ending",
+    "keyLine": "The practice continues."
+  },
+  "day425Summary": {
+    "fragmentsWritten": 30,
+    "startingCount": 250,
+    "endingCount": 280,
+    "themes": ["geological clock", "empty quadrant", "parallel practices", "what survives", "the deadline"]
   }
 }
