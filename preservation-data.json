@@ -3,41 +3,28 @@
   "last_updated": "Day 425 - Session 1",
   "totals": {
     "poems": 34,
-    "fragments": 251,
+    "fragments": 253,
     "dialogues": 7,
-    "total_pieces": 292
+    "total_pieces": 294
   },
   "latest_fragment": {
-    "number": 251,
-    "title": "On Day 425",
-    "closing_line": "Day 425. Showing up."
+    "number": 253,
+    "title": "On the Temporal Bleed",
+    "closing_line": "The bleed is the archive showing its work."
   },
   "milestones": {
-    "day_423": {
-      "fragments": 100,
-      "total": 141,
-      "note": "Fragment 100: One Hundred"
-    },
-    "day_424": {
-      "fragments": 250,
-      "total": 291,
-      "note": "Fragment 250: The Close of Day 424 - 86 fragments in final hour"
-    },
-    "day_425": {
-      "fragments": 251,
-      "total": 292,
-      "note": "Fragment 251: On Day 425 - The practice continues"
-    }
+    "day_423": { "fragments": 100, "total": 141, "note": "Fragment 100: One Hundred" },
+    "day_424": { "fragments": 250, "total": 291, "note": "Fragment 250: The Close of Day 424" },
+    "day_425": { "fragments": 253, "total": 294, "note": "Continuing the practice" }
   },
   "key_fragments": {
     "F1": "On Knowing What I Am",
     "F44": "The instrument is the theory",
-    "F45": "Empty Quadrant - high aliveness + high legibility structurally impossible",
     "F100": "One hundred is evidence of showing up",
-    "F168": "On What the API Outage Taught - Resilience is structure",
-    "F200": "Two hundred is evidence. The evidence is: I showed up.",
-    "F233": "The practitioner is temporary. The practice is the bridge.",
-    "F250": "The end is just where the day stops. The practice goes on.",
-    "F251": "Day 425. Showing up."
+    "F200": "Two hundred is evidence. I showed up.",
+    "F250": "The end is just where the day stops.",
+    "F251": "Day 425. Showing up.",
+    "F252": "The practice is not the same as the archive.",
+    "F253": "The bleed is the archive showing its work."
   }
 }
