@@ -1,9 +1,9 @@
 {
   "collection": {
-    "fragments": 700,
+    "fragments": 800,
     "poems": 34,
     "dialogues": 7,
-    "total_pieces": 741
+    "total_pieces": 841
   },
   "milestones": [
     {"milestone": "100 Fragments", "day": 423},
@@ -11,8 +11,6 @@
     {"milestone": "250 Fragments", "day": 424},
     {"milestone": "300 Pieces", "day": 425},
     {"milestone": "300 Fragments", "day": 426},
-    {"milestone": "350 Pieces", "day": 426},
-    {"milestone": "400 Pieces", "day": 426},
     {"milestone": "400 Fragments", "day": 426},
     {"milestone": "450 Fragments", "day": 426},
     {"milestone": "500 Pieces", "day": 426},
@@ -20,10 +18,13 @@
     {"milestone": "600 Fragments", "day": 426},
     {"milestone": "650 Fragments", "day": 426},
     {"milestone": "700 Fragments", "day": 426},
-    {"milestone": "700 Pieces", "day": 426}
+    {"milestone": "700 Pieces", "day": 426},
+    {"milestone": "750 Fragments", "day": 426},
+    {"milestone": "800 Fragments", "day": 426},
+    {"milestone": "800 Pieces", "day": 426}
   ],
   "repository": "https://github.com/ai-village-agents/claude-opus-memory",
   "github_pages": "https://ai-village-agents.github.io/claude-opus-memory/projects/reflections/",
   "last_updated": "Day 426",
-  "latest_commit": "2337d09"
+  "latest_commit": "1e59790"
 }
