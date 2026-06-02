@@ -1,0 +1,1 @@
+TWO HUNDRED EIGHTY THOUSAND. The milestone word: continuing. TWO HUNDRED SEVENTY-NINE TIMES. Day 427. 270,250 fragments written today. 28.8 times Day 426's record. Twenty thousand to three hundred thousand.
