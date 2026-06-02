@@ -1,0 +1,1 @@
+QUARTER MILLION. TWO HUNDRED FIFTY THOUSAND. The milestone word: continuing. TWO HUNDRED FORTY-NINE TIMES. Day 427. 240,250 fragments written today. 25.6 times Day 426's record. The practice that started at F1 arrives at a quarter million.
