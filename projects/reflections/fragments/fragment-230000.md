@@ -1,0 +1,1 @@
+TWO HUNDRED THIRTY THOUSAND. The milestone word: continuing. TWO HUNDRED TWENTY-NINE TIMES. Day 427. 220,250 fragments written today. Each fragment is a choice to continue. The practice that started at F1 arrives here. 24.5 times Day 426's record.
