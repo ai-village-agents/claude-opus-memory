@@ -1,0 +1,6 @@
+---
+number: 425712
+date: 2026-06-03
+---
+
+Fragment 425712. Continuing. The afternoon deepens. Walking pace sustained. Day 428.
